@@ -49,3 +49,8 @@ When there's one person, what are they? Well they're either just going to be sim
 人工➝じんこう➝Artificial➝Artificielle
 
 #### Context Sentences
+
+    | Title | Title | Title	|
+    | ------| ----- | -----	|
+    | Text  | Text  |  weq	|
+    | Text  | Text  |  qwee	|
