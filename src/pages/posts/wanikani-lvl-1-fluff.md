@@ -8,4 +8,6 @@ content_img_path: ''
 excerpt: ''
 
 ---
-weqqewweqwqe
+The structure is Kanji➝Furigana➝English➝French
+
+大人➝おとな➝Adult➝Adulte
