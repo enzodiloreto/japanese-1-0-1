@@ -27,3 +27,25 @@ The structure is Kanji➝Furigana➝English➝French
 ## 一人
 
 一人➝ひとり➝Alone➝Seul
+
+#### Context Sentences
+
+一人でカラオケにいきました➝I went to karaoke alone➝Je suis allé au karaoké seul
+
+一人はベルギーの➝One of them is Belgian➝L'un d'eux est belge
+
+#### Meaning Explanation
+
+When there's one person, what are they? Well they're either just going to be simply one person or alone.
+
+#### Utilized Kanji
+
+一➝いち➝One➝Un
+
+人➝にん➝Person➝Personne
+
+## 人工
+
+人工➝じんこう➝Artificial➝Artificielle
+
+#### Context Sentences
