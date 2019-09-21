@@ -12,6 +12,8 @@ The structure is Kanji➝Furigana➝English➝French
 
 ## 大人
 
+<hr>
+
 大人➝おとな➝Adult➝Adulte
 
 #### Context Sentences
@@ -25,6 +27,8 @@ The structure is Kanji➝Furigana➝English➝French
 人➝にん➝Person➝Personne
 
 ## 一人
+
+<hr>
 
 一人➝ひとり➝Alone➝Seul
 
@@ -45,6 +49,8 @@ When there's one person, what are they? Well they're either just going to be sim
 人➝にん➝Person➝Personne
 
 ## 人工
+
+<hr>
 
 人工➝じんこう➝Artificial➝Artificielle
 
